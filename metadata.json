@@ -1,0 +1,6 @@
+{
+  "name": "کارخانه پرامپت",
+  "description": "ابزار پیشرفته مهندسی و بهینه‌سازی پرامپت‌های تصویرسازی به زبان فارسی و انگلیسی با موتور هوش مصنوعی جمینای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
